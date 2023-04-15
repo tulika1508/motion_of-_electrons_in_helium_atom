@@ -1,7 +1,7 @@
 # motion_of-_electrons_in_helium_atom
 An OpenGL project to demonstrate the motion of electrons in a helium atom.
 
-Created using OpenGl library in C.
+Created using OpenGl library in C and Bresenham Circle drawing algorithm.
 
 Pictures of the movement of electrons::
 
